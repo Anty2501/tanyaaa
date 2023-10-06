@@ -1,0 +1,56 @@
+.block-main {
+height: 100%;
+width: 100%;
+background: rgb(59,206,212);
+background: linear-gradient(180deg, rgba(59,206,212,1) 50%, rgb(199, 199, 199) 50%);
+}
+
+
+
+.inner-block {
+height: 80%;
+width: 80%;
+margin: auto;
+background: rgb(207, 130, 159);
+background: linear-gradient(180deg, rgb(228, 131, 166) 50%, rgba(255,255,255,1) 50%);
+text-align: center;
+color: cadetblue;
+}
+
+.nav {
+    background-color: rgb(133, 128, 128);
+
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    overflow: hidden;
+    margin-left: 400px;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: start;
+    padding: 14px 16px;
+    text-decoration: none;
+
+  }
+  
+  li a:hover {
+    background-color: rgba(177, 177, 177, 0);
+  }
+  
+  
+.aligncenter {
+    text-align: center;
+     
+}
+
+
